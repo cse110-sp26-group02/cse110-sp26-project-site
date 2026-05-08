@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CSE 110 SP26 Team 02's Project
+description: A site showcasing our project.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://cse110-sp26-group02.github.io/cse110-sp26-project-site/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
