@@ -3,7 +3,7 @@ title: QuickStart
 nav_order: 2
 layout: default
 nav_enabled: true
-permalink: /
+permalink: /quickstart/
 ---
 
 # Steps
