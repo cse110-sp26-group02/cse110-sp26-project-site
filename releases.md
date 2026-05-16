@@ -1,6 +1,6 @@
 ---
 title: Releases
-nav_order: 8
+nav_order: 9
 layout: default
 nav_enabled: true
 permalink: /releases/
