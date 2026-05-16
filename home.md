@@ -1,7 +1,9 @@
 ---
 title: About
-layout: home
-parent: None
+nav_order: 1
+layout: default
+nav_enabled: true
+permalink: /
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
