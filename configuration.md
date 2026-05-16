@@ -3,7 +3,7 @@ title: Configuration
 nav_order: 4
 layout: default
 nav_enabled: true
-permalink: /
+permalink: /configuration/
 ---
 
 # Steps
