@@ -1,9 +1,10 @@
 ---
 title: Security
-nav_order: 6
+parent: limits
+nav_order: 1
 layout: default
 nav_enabled: true
-permalink: /security/
+permalink: /limits/security/
 ---
 
 # Recommendations
