@@ -1,6 +1,5 @@
 ---
 title: Security
-parent: limits
 nav_order: 1
 layout: default
 nav_enabled: true
