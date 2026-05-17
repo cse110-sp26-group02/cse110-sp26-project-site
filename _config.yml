@@ -1,8 +1,14 @@
+# basic details
 title: AIT User Manual
 description: A site showcasing our project.
+
+# theme choice
 theme: just-the-docs
 
-url: https://cse110-sp26-group02.github.io/cse110-sp26-project-site/
+# build the URL
+url: "https://cse110-sp26-group02.github.io"
+baseurl: "/cse110-sp26-project-site/"
 
+# external links embedded in site
 aux_links:
-  Template Repository: https://github.com/cse110-sp26-group02/cse110-sp26-project-site/tree/main
+  Template Repository: "https://github.com/cse110-sp26-group02/cse110-sp26-project-site/tree/main"
