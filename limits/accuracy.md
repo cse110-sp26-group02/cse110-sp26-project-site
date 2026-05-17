@@ -1,10 +1,9 @@
 ---
 title: Accuracy
-parent: limits
+parent: Limits & Warnings
 nav_order: 2
 layout: default
 nav_enabled: true
-nav_exclude: false
 permalink: /limits/accuracy/
 ---
 
