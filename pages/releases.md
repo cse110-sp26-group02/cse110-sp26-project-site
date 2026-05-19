@@ -8,4 +8,4 @@ permalink: /releases/
 
 # Links
 
-Lists link/s to releases.
+Please visit the associated repo's [GitHub Releases Page](https://github.com/cse110-sp26-group02/cse110-sp26-project-public/releases) to download your preferred version of the product.
