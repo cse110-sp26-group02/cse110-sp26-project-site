@@ -7,6 +7,18 @@ nav_enabled: true
 permalink: /limits/security/
 ---
 
-# Recommendations
+# Overview
 
-This section outlines security measures recommended. 
+This section outlines security limitations and pre-cautions. 
+
+# Encryption
+
+## Limitations
+
+* None of the extension is encrypted at rest. 
+* Only packets sent to cloud services are protected by HTTPS.
+
+## Pre-Cautions
+
+* If your machine is compromised, your keys and PAT could be stolen and used for malicious purposes.
+* To counter the effects of this potential problem, ensure that you granularly select only the privileges needed by this extension.
