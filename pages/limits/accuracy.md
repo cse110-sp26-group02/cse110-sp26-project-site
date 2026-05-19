@@ -11,7 +11,7 @@ permalink: /limits/accuracy/
 
 This section outlines limitations in cost tracking, authentication.
 
-# Costs Tracking
+# Cost Tracking
 
 * can only be set in USD
 * prices can be manually or automatically set
