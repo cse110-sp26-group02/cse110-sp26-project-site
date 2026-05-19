@@ -6,10 +6,4 @@ nav_enabled: true
 permalink: /limits/
 ---
 
-# Limits
-
-This section outlines limits.
-
-# Warnings
-
-This section outlines warnings.
+These sub-pages cover limitations of the security and accuracy we can offer with our product and offer ideas for countering them.
