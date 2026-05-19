@@ -9,7 +9,7 @@ permalink: /limits/accuracy/
 
 # Overview
 
-This section outlines limitations in cost tracking, authentication.
+This section outlines limitations in cost tracking, authentication, Issue styling, and more.
 
 # Cost Tracking
 
