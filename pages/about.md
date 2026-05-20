@@ -12,7 +12,7 @@ This page overviews the origin and philosophy of the project.
 
 # Origin
 
-The product and this manual was created by 11 students in CSE 110 at UC San Diego for the Spring 2026 quarter. The team includes: Andre Stransky, Andrew Le, Mani Schabani-Qassri, Scott Pham, Sahil Dalal, Jason Wang, Paul Montal, Gurnoor Bola, Jutine Le, Paul Montal, Abdurrahman Syed, and Sophia Ali. 
+The product and this manual was created by 11 undergraduate students in CSE 110 at UC San Diego for the Spring 2026 quarter. The team includes: Andre Stransky, Andrew Le, Mani Schabani-Qassri, Scott Pham, Sahil Dalal, Jason Wang, Paul Montal, Gurnoor Bola, Jutine Le, Abdurrahman Syed, and Sophia Ali. 
 
 It introduces one of the first pure agentic Issue "trackers" as a VS Code IDE extension. 
 
