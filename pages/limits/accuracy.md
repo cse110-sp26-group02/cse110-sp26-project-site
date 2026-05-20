@@ -11,12 +11,22 @@ permalink: /limits/accuracy/
 
 This section outlines limitations in cost tracking, authentication, Issue styling, and more.
 
+# Features
+
 # Cost Tracking
 
 * can only be set in USD
 * prices can be manually or automatically set
     * input manually for 3 favorite Gemini models chosen from fetched list
     * auto-fetched from the Gemini API pricing page via URL tool-call with each detected operation (likely incurs an extra fee and accuracy is not guaranteed)
+
+## Summarization
+
+* summarization quality is inversely proportional to size of repo
+
+## Agent Detection
+
+* repo commits with co-authors (including agents) will not be detected as agent-based
 
 # Authentication
 
