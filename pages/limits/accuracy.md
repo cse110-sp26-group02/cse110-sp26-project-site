@@ -13,7 +13,7 @@ This section outlines limitations in cost tracking, authentication, Issue stylin
 
 # Features
 
-# Cost Tracking
+## Cost Tracking
 
 * can only be set in USD
 * prices can be manually or automatically set
