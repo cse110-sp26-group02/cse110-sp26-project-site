@@ -13,5 +13,17 @@ This section outlines limitations in compatability.
 
 # Agent Models
 
-* any model is compatible as long as it is built by Google, OpenAI, or Anthropic or available on OpenRouter (as long as it is launched and used through VS Code)
-* any number of agent models can be used
+## General 
+
+* any model is compatible (as long as it is launched and used through VS Code)
+
+## Full Tracking
+
+* token and cost tracking is included for the product's native Gemini agent calls (models cannot be switched out currently)
+* token and cost tracking for agents you assign to Issues (through VS Code) is only available for models built by Google, OpenAI, or Anthropic
+* token counts and costs constantly change, so we cannot deliver a very reliable product if we try to cover all providers, which constantly expand and change their tokenizations/prices
+* we do not plan on supporting another cloud model provider beyond those because it is unlikely that these giants will be beaten and people mostly converge to always choose the best model available when using the cloud
+
+## Scale
+
+* any number of agents can be triggered in parallel via VS Code
