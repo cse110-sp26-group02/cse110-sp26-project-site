@@ -28,10 +28,10 @@ TBA
 
 ## GitHub 
 
-## Authentication
+### Authentication
 
 TBA
 
-## Other
+### Other
 
 None
