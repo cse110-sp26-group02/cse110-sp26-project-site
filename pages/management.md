@@ -1,6 +1,6 @@
 ---
 title: Management
-nav_order: 10
+nav_order: 5
 layout: default
 nav_enabled: true
 permalink: /management/
