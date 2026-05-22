@@ -7,6 +7,20 @@ nav_enabled: true
 permalink: /configuration/security/
 ---
 
-# List
+# Overview
 
-This section outlines steps for setting up Gemini - more specific than "QuickStart". 
+This section outlines steps for setting up Gemini (our product's native cloud LLM provider for analysis) - more specific than "QuickStart". 
+
+## List
+
+### Authentication
+
+TBA
+
+### Budget
+
+TBA
+
+### Automated/Manual Pricing
+
+TBA
