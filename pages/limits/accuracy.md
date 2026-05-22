@@ -44,3 +44,7 @@ This section outlines limitations in cost tracking, authentication, Issue stylin
 # Styling
 
 * details about Issues in their description – as seen on GitHub after an update – cannot be re-formatted/configured (they have only one style to allow for easy parsing by the product)
+
+# Syncing
+
+TBA
