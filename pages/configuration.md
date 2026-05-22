@@ -14,7 +14,7 @@ This page outlines the configuration options that the user has. See the "Configu
 
 ## Cloud LLM Provider for (Product's Internal Analysis)
 
-## Authentication
+### Authentication
 
 TBA
 
