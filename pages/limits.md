@@ -6,4 +6,4 @@ nav_enabled: true
 permalink: /limits/
 ---
 
-These sub-pages cover limitations of the security and accuracy we can offer with our product and offer ideas for countering them.
+The following sub-pages cover limitations of the security and accuracy we can offer with our product and offer ideas for countering them.
