@@ -8,7 +8,7 @@ permalink: /faq/
 
 # Overview
 
-This section shows and answers frequently-asked questions.
+This section shows and briefly answers frequently-asked questions, linking to tabs that offer more information for each.
 
 # List
 
