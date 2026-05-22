@@ -1,6 +1,6 @@
 ---
 title: QuickStart
-nav_order: 2
+nav_order: 4
 layout: default
 nav_enabled: true
 permalink: /quickstart/
