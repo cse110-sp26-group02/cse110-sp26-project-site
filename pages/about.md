@@ -1,6 +1,6 @@
 ---
 title: About
-nav_order: 1
+nav_order: 2
 layout: default
 nav_enabled: true
 permalink: /
