@@ -35,3 +35,15 @@ This section outlines limitations in compatability.
 * Use our product from the start on new repos you create.
 * You can export our traces so that they can be analyzed by an alternative that can identify agents who committed in the past.
 
+# Authentication
+
+## Allowed Types
+
+* only API key for Gemini 
+* only PAT (Personal Authentication Token) for GitHub
+* no SSO for either
+
+## Signing Out
+
+* you can only sign out of each service by deleting your API key and/or PAT and then pressing the “action” button that confirms your configurations
+
