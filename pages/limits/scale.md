@@ -11,7 +11,7 @@ permalink: /limits/scale/
 
 This section outlines scale limitations and work-arounds. 
 
-# Insight Level
+# Insight Resolution
 
 ## Limitations
 
@@ -21,3 +21,7 @@ This section outlines scale limitations and work-arounds.
 ## Work-Arounds
 
 * You can set up a custom GitHub Action Workflow - while on a paid plan that allows for faster computations and agentic summaries - to aggregate insights from Issues across the entire repo
+
+# Amount of Agents
+
+* any number of agents can be triggered in parallel via VS Code
