@@ -15,15 +15,23 @@ This section outlines limitations in compatability.
 
 ## General 
 
-* any model is compatible (as long as it is launched and used through VS Code)
+* Any model is compatible (as long as it is launched and used through VS Code).
 
 ## Full Tracking
 
-* token and cost tracking is included for the product's native Gemini agent calls (models cannot be switched out currently)
-* token and cost tracking for agents you assign to Issues (through VS Code) is only available for models built by Google, OpenAI, or Anthropic
-* token counts and costs constantly change, so we cannot deliver a very reliable product if we try to cover all providers, which constantly expand and change their tokenizations/prices
-* we do not plan on supporting another cloud model provider beyond those because it is unlikely that these giants will be beaten and people mostly converge to always choose the best model available when using the cloud
+* Token and cost tracking is included for the product's native Gemini agent calls (models cannot be switched out currently).
+* Token and cost tracking for agents you assign to Issues (through VS Code) is only available for models built by Google, OpenAI, or Anthropic.
+* Token counts and costs constantly change, so we cannot deliver a very reliable product if we try to cover all providers, which constantly expand and change their tokenizations/prices.
+* We do not plan on supporting another cloud model provider beyond those because it is unlikely that these giants will be beaten and people mostly converge to always choose the best model available when using the cloud.
 
-## Scale
+# Tracking Timeline
 
-* any number of agents can be triggered in parallel via VS Code
+## Limitations
+
+* Past agent traces on commits cannot be tracked. Only live ones once you start using our product.
+
+## Work-Arounds
+
+* Use our product from the start on new repos you create.
+* You can export our traces so that they can be analyzed by an alternative that can identify agents who committed in the past.
+
