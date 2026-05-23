@@ -1,17 +1,17 @@
 ---
-title: Accuracy & Reliability
+title: Reliability (Accuracy & Uptime)
 parent: Limits & Warnings
 nav_order: 2
 layout: default
 nav_enabled: true
-permalink: /limits/accuracy-and-reliability/
+permalink: /limits/reliability/
 ---
 
 # Overview
 
 This section outlines accuracy and reliability limitations in cost tracking, authentication, Issue styling, and more.
 
-# Features
+# Accuracy
 
 ## Cost Tracking
 
@@ -27,3 +27,8 @@ This section outlines accuracy and reliability limitations in cost tracking, aut
 
 * repo commits with co-authors (including agents) will not be detected as agent-based
 * ensure that you disable CoPilot and co-authoring on your repo to prevent this (see GitHub's Settings page)
+
+# Uptime
+
+* the product currently depends on cloud models, so its uptime depends on the provider servers
+* to minimize the number of dependencies and increase uptime, it is recommended to use Google Gemini for your agents - which matches what the product internally uses for analysis
