@@ -1,15 +1,15 @@
 ---
-title: Development
+title: Scale
 parent: Limits & Warnings
 nav_order: 4
 layout: default
 nav_enabled: true
-permalink: /limits/development/
+permalink: /limits/scale/
 ---
 
 # Overview
 
-This section outlines development limitations and work-arounds. 
+This section outlines scale limitations and work-arounds. 
 
 # Insight Level
 
@@ -21,14 +21,3 @@ This section outlines development limitations and work-arounds.
 ## Work-Arounds
 
 * You can set up a custom GitHub Action Workflow - while on a paid plan that allows for faster computations and agentic summaries - to aggregate insights from Issues across the entire repo
-
-# Tracking Timeline
-
-## Limitations
-
-* Past agent traces on commits cannot be tracked. Only live ones once you start using our product.
-
-## Work-Arounds
-
-* Use our product from the start on new repos you create.
-* You can export our traces so that they can be analyzed by an alternative that can identify agents who committed in the past.
