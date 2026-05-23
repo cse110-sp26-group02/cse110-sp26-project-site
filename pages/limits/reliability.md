@@ -1,5 +1,5 @@
 ---
-title: Reliability (Accuracy & Uptime)
+title: Reliability (Accuracy/Uptime)
 parent: Limits & Warnings
 nav_order: 2
 layout: default
