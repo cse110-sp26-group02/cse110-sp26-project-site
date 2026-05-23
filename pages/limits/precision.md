@@ -1,15 +1,15 @@
 ---
-title: Precision & Scope
+title: Precision
 parent: Limits & Warnings
 nav_order: 3
 layout: default
 nav_enabled: true
-permalink: /limits/precision-and-scope
+permalink: /limits/precision/
 ---
 
 # Overview
 
-This section outlines limitations in cost tracking, authentication, Issue styling, and more.
+This section outlines precision limitations in cost tracking, authentication, Issue styling, syncing, and more.
 
 # Features
 
