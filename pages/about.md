@@ -10,7 +10,7 @@ permalink: /
 
 This page overviews the origin and philosophy of the project. 
 
-<img src="https://github.com/cse110-sp26-group02/cse110-sp26-project-site/edit/main/pages/about.md/media/official-icon-transparent-large.png" alt="IssueSight Logo" width="25%">
+<img src="https://github.com/cse110-sp26-group02/cse110-sp26-project-site/media/official-icon-transparent-large.png" alt="IssueSight Logo" width="25%">
 
 # Origin
 
