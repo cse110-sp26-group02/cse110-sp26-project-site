@@ -10,6 +10,8 @@ permalink: /
 
 This page overviews the origin and philosophy of the project. 
 
+<img src="https://github.com/cse110-sp26-group02/cse110-sp26-project-site/edit/main/pages/about.md/media/official-icon-transparent-large.png" alt="IssueSight Logo" width="25%">
+
 # Origin
 
 The product and this manual was created by 11 undergraduate students in CSE 110 at UC San Diego for the Spring 2026 quarter. The team includes: Andre Stransky, Andrew Le, Mani Schabani-Qassri, Scott Pham, Sahil Dalal, Jason Wang, Paul Montal, Gurnoor Bola, Jutine Le, Abdurrahman Syed, and Sophia Ali. 
