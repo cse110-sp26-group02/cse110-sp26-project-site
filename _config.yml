@@ -3,7 +3,7 @@ title: IssueSight User Manual
 description: A site for users to refer to. 
 
 # theme choice
-favicon_ico: "media/official-icon-transparent-large.png"
+favicon_ico: "/media/official-icon-transparent-large.png"
 
 # theme choice
 theme: just-the-docs
