@@ -6,11 +6,11 @@ nav_enabled: true
 permalink: /
 ---
 
+<img src="/media/official-icon-transparent-large.png" alt="IssueSight Logo" width="25%">
+
 # Overview
 
 This page overviews the origin and philosophy of the project. 
-
-<img src="/media/official-icon-transparent-large.png" alt="IssueSight Logo" width="25%">
 
 # Origin
 
