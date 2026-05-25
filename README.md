@@ -1,4 +1,4 @@
-# User Manual Site Source for IssueSight
+# Source of IssueSight's User Manual Website
 
 ---
 
