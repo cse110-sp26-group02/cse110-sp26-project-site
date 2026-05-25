@@ -1,4 +1,4 @@
-# AIT User Manual Site
+# User Manual Site Source for IssueSight
 
 ---
 
