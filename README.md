@@ -26,7 +26,8 @@
 #### Process
 
 * Unlike our primary development repo, we do not use any branches here. Internal devs are trusted to follow best practices when contributing to `main`. Check the "Planning" G-Doc to confirm approved information before adding anything.
-* Issues may be assigned and should be completed but no branch will be connected. 
+* Issues may be assigned and should be completed but no branch will be connected.
+* To avoid confusion, the classic GitHub "Issues" page will be used to track open/closed Issues, unlike our codebase's repo - which uses GitHub "Project" view as primary.
 
 #### Troubleshooting
 
