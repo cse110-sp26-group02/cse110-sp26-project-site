@@ -42,7 +42,7 @@ TBA
 * Instead of offering yet another wrapper that duplicates functionality, we focused on crafting the most efficient engine for taking care of the most important data type that large tools like GitHub ignore - Issues. Issues are the most useful data object in the modern development process; they can be plugged into Jira or your favorite generic task tracker and help a team fully visualize their path - vs incremental commits.
 
 ## Ultimate Convenience
-* Not only do we provide a combination of unique takes on tracking, but we make it very convenient.
+* Not only do we provide a combination of unique tracking capabilities, but we make it very convenient.
 * Other options force you to have their website open, burden you with new CLI commands, or eat up your time by making you manually wrap your agent's trigger functions (e.g. in Codex or other frameworks).
-* With us, you just have to click to install our extension in VS Code and get started right away.
-* It is the only true "plug-and-play" tracker and is ready for your agents today.
+* With IssueSight, you can just click to install the extension in VS Code and get started right away.
+* If you are looking for true "plug-and-play", get this going for your agents today!
