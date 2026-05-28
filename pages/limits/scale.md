@@ -25,3 +25,8 @@ This section outlines scale limitations and work-arounds.
 # Amount of Agents
 
 * any number of agents can be triggered in parallel via VS Code
+
+# Amount of Issues
+
+* our extension tries to handle as much data as possible (you are only limited by your system's RAM, since that is where it operates currently)
+* we recommend at least 1.00gb of free RAM to handle upcoming agent-focused repos, which will likely contain a lot of auto-created Issues
