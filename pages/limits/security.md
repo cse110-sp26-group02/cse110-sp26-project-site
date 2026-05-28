@@ -15,7 +15,7 @@ This section outlines security limitations and pre-cautions.
 
 ## Limitations
 
-* None of the extension is encrypted at rest. 
+* None of the extension's data is encrypted at rest. 
 * Only packets sent to cloud services are protected by HTTPS.
 
 ## Pre-Cautions
