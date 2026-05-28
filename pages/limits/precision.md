@@ -23,4 +23,4 @@ This section outlines precision limitations in cost tracking, authentication, Is
 
 # Syncing
 
-TBA
+* Issues are pulled from the target GitHub repository every 2.00 seconds (to avoid hitting the rate limit while still allowing for remote pushes to the repo)
