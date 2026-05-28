@@ -28,6 +28,7 @@ TBA
 
 # Compared to Current Agentic Industry
 
+## Feature Focus & Quality Differences
 * Yes, OpenAI, Anthropic, Google, and other providers do give you token counts in their isolated online dashboards - but are they at your fingertips as a SWE, right in your IDE?
 * Not only do we allow you to see live usage from within your development workspace, but it offers:
     1. Far more detailed compute tracking (including tokens, compute time, tool/function calls, and even thought signatures).
@@ -35,5 +36,9 @@ TBA
     3. Ability to judge and assign priority, size, and more by tracking the contents of the Issue (vs adjacent ones and even compared to the repo contents themselves).
     4. Strong auto-summarization capability for Issues themselves, which uses the most needed insights relevant to the Issue.
     5. Out-of-the-box compatability with multiple agent providers (so you are not stuck with having multiple dashboard tabs open to check simple usage that you also have to control manually).
+ 
+## A Precision Tool
 * We are a tool specially-built for the SWE development experience. Instead of offering yet another wrapper that duplicates functionality, we focused on crafting the most efficient engine for taking care of the most important data type that large tools like GitHub ignore - Issues. Issues are the most useful data object in the modern development process; they can be plugged into Jira or your favorite generic task tracker and help a team fully visualize their path - vs incremental commits.
+
+## Ultimate Convenience
 * Not only do we provide a combination of unique takes on tracking, but we make it very convenient. While other options force you to have their website open, make you learn new CLI commands when you don't want to, or force you to manually wrap your agent's trigger functions (e.g. in Codex or other frameworks), you just have to click to install our extension in VS Code and get started right away. It is the only true "plug-and-play" tracker and is ready for your agents today.
