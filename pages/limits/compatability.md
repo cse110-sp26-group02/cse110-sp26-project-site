@@ -15,7 +15,7 @@ This section outlines limitations in compatability.
 
 ## General 
 
-* Any model is compatible (as long as it is launched and used through VS Code).
+* Only commits from agents launched via Gemini CLI may work. 
 
 ## Full Tracking
 
@@ -39,11 +39,11 @@ This section outlines limitations in compatability.
 
 ## Allowed Types
 
-* only API key for Gemini 
-* only PAT (Personal Authentication Token) for GitHub
-* no SSO for either
+* Only API key for Gemini.
+* Only PAT (Personal Authentication Token) for GitHub.
+* No SSO for either.
 
 ## Signing Out
 
-* you can only sign out of each service by deleting your API key and/or PAT and then pressing the “action” button that confirms your configurations
+* You can only sign out of each service by deleting your API key and/or PAT and then pressing the “action” button that confirms your configurations.
 
