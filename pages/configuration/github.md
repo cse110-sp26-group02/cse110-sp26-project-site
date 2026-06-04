@@ -11,7 +11,7 @@ permalink: /configuration/github/
 
 This page outlines steps for setting up GitHub - more specific than "QuickStart". 
 
-## Guidance
+# Guidance
 
 Once you get on the "Configuration" page by clicking the rightmost icon in the top navigation menu of the extension...
 
