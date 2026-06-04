@@ -14,6 +14,7 @@ This page outlines the requirements/restrictions imposed on the user if they wan
 
 ## Local
 
+* **CLI Agent Harness**: Google Gemini CLI (all versions until v0.45.0 for guaranteed performance/features)
 * **VS Code Versions**: 1.119-1.120 confirmed; 1.120+ likely (install from [https://code.visualstudio.com/download](https://code.visualstudio.com/download))
 * **OS**: any macOS, Windows, or Linux variations that support VS Code 1.119+, with macOS 12+, Windows 10+, and Linux distributions that have `glibc 2.28` or later - such as Ubuntu 20.04 (see [VS Code's specific requirements page for this edition ](https://code.visualstudio.com/docs/supporting/requirements)
 * **System Architecture**: all OSes that support the minumum-required VS Code version are 64-bit
