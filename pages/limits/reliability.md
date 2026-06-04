@@ -27,8 +27,9 @@ This section outlines accuracy and reliability limitations in cost tracking, aut
 
 * repo commits with co-authors (including agents) will not be detected as agent-based
 * ensure that you disable CoPilot and co-authoring on your repo to prevent this (see GitHub's Settings page)
+* ensure that 1 branch exists and is uniquely linked to each Issue you wish to track (1 unique branch per Issue; non-linked Issues will not be tracked)
 
 # Uptime
 
 * the product currently depends on cloud models, so its uptime depends on the provider servers
-* to minimize the number of dependencies and increase uptime, it is recommended to use Google Gemini for your agents - which matches what the product internally uses for analysis
+* to minimize the number of dependencies and increase uptime, Google Gemini is both required for user's agents and used for internal analysis (meaning that only Google's servers and your local machine's reliability affects the product's uptime)
