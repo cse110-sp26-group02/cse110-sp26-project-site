@@ -8,34 +8,43 @@ permalink: /features/
 
 # Overview
 
-This page overviews all of the product's features. 
+This page overviews all of the product's features and compares against alternatives. 
 
 # Us
 
-## Tracking
+## Tracking (Data Retrieved Per Issue)
 
-### TBD
+* input/output/total tokens used
+* price of input/output/total tokens used
+* size of Issue (relative to others in same repo)
+* indication if Issue blocks or is blocked by another
+* indication if an Issue is similar/duplicated another
+* local Issue processing time
 
-TBD
+## Extra Automations
 
-### TBD
+* automatic processing stoppage after set budget reached
 
-TBD
+## Aggregation
 
-### Other
+* total Issues still open
+* total tokens used across Issues
+* total cost of tokens used vs budget
 
-TBA
+## Configuration
+
+* set a token cost budget across all Issues (in USD)
+* authentication via fine-grained GitHub PAT to securely tune access to your repo (preventing catastrophic effects commonly made by LLMs)
 
 # Compared to Current Agentic Industry
 
 ## A Big Difference in Feature Focus & Quality
 * Yes, OpenAI, Anthropic, Google, and other providers do give you token counts in their isolated online dashboards - but are they at your fingertips as a SWE, right in your IDE?
 * Not only do we allow you to see live usage from within your development workspace, but it offers:
-    1. Far *more detailed* compute tracking (including tokens, compute time, tool/function calls, and even thought signatures).
+    1. Far *more detailed* compute tracking (including tokens and compute time).
     2. Organization per-Issue instead of per-commit. If it wasn't, it would be very hard to aggregate afterwards - especially if you want to experiment with models and see which one performs better for certain tasks. Such a low-level resolution would also be very inconvenient because budgets cannot be controlled - so you'd end up with huge, un-payable bills that shut down your business! It is also the *most natural* way to track thought patterns as a product is built (ignoring simple commits that don't contribute to actual features that ship). 
-    3. Ability to judge and assign priority, size, blockage, and more by tracking the contents of the Issue (vs adjacent ones and even compared to the repo contents themselves).
+    3. Ability to judge and assign size, blockage, duplication, and more by tracking the contents of the Issue (vs adjacent ones and even compared to the repo contents themselves).
     4. Strong auto-summarization capability for Issues themselves, which uses the most needed insights relevant to the Issue.
-    5. Out-of-the-box *compatability* with multiple agent providers (so you are not stuck with having multiple dashboard tabs open to check simple usage that you also have to control manually).
  
 ## A Precision Tool
 * We are a tool specially-built for the next generation SWE development experience.
