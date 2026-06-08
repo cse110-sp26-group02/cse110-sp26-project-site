@@ -14,7 +14,7 @@ This page outlines the steps to quickly get started.
 
 ## Brand New User
 
-1. Open the [repo](https://github.com/cse110-sp26-group02/cse110-sp26-project-public). 
+1. Open the [codebase repo](https://github.com/cse110-sp26-group02/cse110-sp26-project-codebase). 
 2. Click on the `out/` folder.
 3. Click on the `release/` folder inside.
 4. Click on the `.vsix` file.
