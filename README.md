@@ -12,6 +12,10 @@
 
 ### Links
 
+### YouTube links
+[Private video](https://youtu.be/kDz-CoxJ0mg)
+
+[Public video](https://error404)
 #### General
 
 * See [https://just-the-docs.github.io/just-the-docs/](https://just-the-docs.github.io/just-the-docs/) for customization guidance.
